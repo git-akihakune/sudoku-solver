@@ -1,0 +1,2 @@
+# A graphical TUI sudoku solver
+Not the fatest one, but definitely one of the most aesthetically pleasing. Think of it more like [cmatrix](https://github.com/abishekvashok/cmatrix) rather than a real sudoku solver. Scripts available in languages I do know.
